@@ -1,4 +1,5 @@
 🏥 Projeto: Sistema de Fila de Espera com Prioridade
+
 Este projeto simula um sistema de fila de espera para atendimento, utilizando listas encadeadas simples em Python. O sistema prioriza pacientes com cartões amarelos (A) sobre os pacientes com cartões verdes (V).
 
 📋 Funcionalidades
